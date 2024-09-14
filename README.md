@@ -15,13 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cogusp)
+-->
+
+
+
+<br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogusp&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=cogusp&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cogusp&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
+<br>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp&nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp&nbsp
+  <img src="https://img.shields.io/badge/C%23-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp&nbsp
 </div>
 
@@ -34,20 +52,18 @@ Here are some ideas to get you started:
 
 <h3 align="center">📬 Contact 📬</h3>
 <div align="center">
-  
   <a href="https://www.notion.so/CHAEHYUN-LEE-ff87473ae9104cfeb2f9f34badb9b99f">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp&nbsp
   </a>
-  
-  <a href="20212908@soongsil.ac.kr">
-    <img src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+
+  <a href="https://www.notion.so/CHAEHYUN-LEE-ff87473ae9104cfeb2f9f34badb9b99f">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp&nbsp
   </a>
   
-  <a href="https://blog.naver.com/j_nary">
-    <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  
-  <a href="https://www.instagram.com/j_naary/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  <a href="https://www.instagram.com/e_pluie_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
+<br><br>
+
