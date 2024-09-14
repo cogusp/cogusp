@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp&nbsp
   </a>
 
-  <a href="https://www.notion.so/CHAEHYUN-LEE-ff87473ae9104cfeb2f9f34badb9b99f">
+  <a href="mailto:cogusp1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp&nbsp
   </a>
   
