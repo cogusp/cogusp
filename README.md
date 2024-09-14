@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cogusp)
--->
-
+<!--Header-->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/716234ef-9a9c-43e0-9fda-e4642822b76f" height="300" weight="100%"/>
+</p>
 
 <br><br>
 
+<!--My Status-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogusp&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40.5% />
 </a>    
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 <!--Snake-->
 <img src="https://github.com/cogusp/cogusp/blob/output/github-snake-dark.svg" width="100%">
 
+<!--Tech Stack-->
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp&nbsp
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--Contact-->
 <h3 align="center">📬 Contact 📬</h3>
 <div align="center">
   <a href="https://www.notion.so/CHAEHYUN-LEE-ff87473ae9104cfeb2f9f34badb9b99f">
@@ -64,3 +67,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
+<br>
+
