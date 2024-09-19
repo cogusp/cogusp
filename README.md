@@ -78,14 +78,20 @@ Here are some ideas to get you started:
 
 <h2> 🏅 Awards 🏅 </h2>
 <div>
-    
+    한림대학교 2023 캡스톤디자인 경진대회 - 장려상 <br>
+    한국컴퓨터그래픽스학회 - 학부우수포스터상 <br>
+    한림대학교 2023 정보과학대학 학술제 아이디어 부문 - 은상 <br>
 </div>
 
 <br><br>
 
-<h2> 👾 Projects 👾 </h2>
+<h2> ✨ Projects ✨ </h2>
 <div>
-    
+    👾 Into the Woods <br>
+    👾 심박수를 활용한 VR 반응형 콘텐츠 🏅🏅 <br>
+    👾 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램 🏅 <br>
+    👾 GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램 <br>
+    👾  <br>
 </div>
 
 <br><br>
