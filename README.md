@@ -76,3 +76,41 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--수강과목-->
+<h3 align="center">👩‍🏫 Courses taken 👩‍🏫</h3>
+<div align="center">
+    <a> 
+        C프로그래밍 (C Programming) <br>
+        C++프로그래밍 (C++ Programming) <br>
+        자바프로그래밍 1 (Java Programming 1) <br>
+        자바프로그래밍 2 (Java Programming 2) <br>
+        자료구조 (Data Structure) <br>
+        알고리즘 (Algorithm) <br>
+        선형대수 (Linear Algebra) <br>
+        이산구조론 (Discrete Mathematics) <br>
+        컴퓨터구조 (Computer Architecture) <br>
+        게임프로그래밍 (Game Programming) <br>
+        VR/AR/게임제작기초 (VR/AR/Game Production Basics) <br>
+        증강현실기초및실습 (AR Basics and Practice) <br>
+        가상현실기초및실습 (VR Basics and Practice) <br>
+        가상현실디자인 워크샵 (VR Design Workshop) <br>
+        컴퓨터그래픽스 (Computer Graphics) <br>
+        컴퓨터그래픽스 특론 (Special Topics in Computer Graphics) <br>
+        HCI (HCI) <br>
+        데이터베이스기초 (Database Basics) <br>
+        데이터과학을위한파이썬 (Python for Data Science) <br>
+        파이썬과학프로그래밍기초 (Python Scientific Programming Basics) <br>
+        데이터사이언스기초 (Data Science Basics) <br>
+        소프트웨어캡스톤디자인 (Software Capstone Design) <br>
+        SW캡스톤디자인 (SW Capstone Design) <br>
+        임베디드시스템 (Embedded System) <br>
+        컴퓨팅사고와문제해결 (Computational Thinking and Problem Solving) <br>
+        창의코딩웹 (Creative Coding Web) <br>
+        윈도우프로그래밍 (Window Programming) <br>
+        회로이론및실험 (Circuit Theory and Experiment) <br>
+        신호및시스템 (Signals and Systems) <br>
+        오픈소스SW개발도구활용 (Utilization of Open Source SW Development Tools) <br>
+    </a>
+</div>
+
+<br>
