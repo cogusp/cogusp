@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 &nbsp&nbsp&nbsp • 요리 교육 VR 프로그램을 제작하기 위해 Gemini를 연동한 가상 에이전트를 시각화하여 제공 <br>
 &nbsp&nbsp&nbsp • 역할 : GEMINI 연동 가상 에이전트 구현 <br>
 &nbsp&nbsp&nbsp • VR, Unity3D, C#, Python, Google GEMINI API <br><br>
-[g](https://github.com/lbd0/2024_KCGS)
 
 <br><br>
 
