@@ -23,22 +23,38 @@ Here are some ideas to get you started:
 <br><br>
 
 <h2> ✨ Projects ✨ </h2>
+
 👾 Into the Woods (2023) <br>
-&nbsp&nbsp&nbsp • 새로 변하는 능력을 얻은 늑대가 하수도에서 지상으로 탈출하는 게임 <br>
-&nbsp&nbsp&nbsp • 역할 : 1인 개발(기획 및 구현)<br>
-&nbsp&nbsp&nbsp • Unreal Engine 5, Blueprint <br><br>
-👾 심박수를 활용한 VR 반응형 콘텐츠 (2023) <br>
-&nbsp&nbsp&nbsp • 사용자의 심박수를 게임의 요소로 설정하여 입력받은 심박수에 따라 게임의 난이도가 달라지는 VR 게임 <br>
-&nbsp&nbsp&nbsp • 역할 : 팀장, 데이터 분석, 게임 Scene 제작 <br>
-&nbsp&nbsp&nbsp • VR, Unity3D, C#, Python, Firebase, Android Studio <br><br>
-👾 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램 (2023) 🏅 <br>
-&nbsp&nbsp&nbsp • 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
-&nbsp&nbsp&nbsp • 역할 : 팀장  <br>
-&nbsp&nbsp&nbsp • VR, Unity3D, C# <br><br>
-👾 GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램 (2024) <br>
-&nbsp&nbsp&nbsp • 요리 교육 VR 프로그램을 제작하기 위해 Gemini를 연동한 가상 에이전트를 시각화하여 제공 <br>
-&nbsp&nbsp&nbsp • 역할 : GEMINI 연동 가상 에이전트 구현 <br>
-&nbsp&nbsp&nbsp • VR, Unity3D, C#, Python, Google GEMINI API <br><br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 새로 변하는 능력을 얻은 늑대가 하수도에서 지상으로 탈출하는 게임 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발(기획 및 구현)<br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5, Blueprint <br><br>
+</div>
+
+👾 [심박수를 활용한 VR 반응형 콘텐츠](https://github.com/lbd0/HeartRate_WatchApp) (2023) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 사용자의 심박수를 게임의 요소로 설정하여 입력받은 심박수에 따라 게임의 난이도가 달라지는 VR 게임 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 팀장, 데이터 분석 및 게임 Scene 제작 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C#, Python, Firebase, Android Studio <br><br>
+</div>
+
+👾 [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking) (2023) 🏅 <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 팀장  <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C# <br><br>
+</div>
+
+👾 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://github.com/lbd0/2024_KCGS) (2024) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 요리 교육 VR 프로그램을 제작하기 위해 Gemini를 연동한 가상 에이전트를 시각화하여 제공 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : GEMINI 연동 가상 에이전트 구현 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C#, Python, Google GEMINI API <br><br>
+</div>
 
 <br><br>
 
