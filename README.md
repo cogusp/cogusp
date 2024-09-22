@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h2> ✨ Projects ✨ </h2>
 
-👾 [Into the Woods](https://github.com/cogusp/2023_IntoTheWoods/blob/main/README.md) (2023) <br>
+👾 [Into the Woods](https://github.com/cogusp/2023_IntoTheWoods/blob/main/README.md) (2022) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 새로 변하는 능력을 얻은 늑대가 하수도에서 지상으로 탈출하는 게임 <br>
