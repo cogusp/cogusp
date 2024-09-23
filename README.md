@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
-    &nbsp&nbsp&nbsp • &nbsp Role : 팀장  <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 팀장, Meta Quest Interaction <br>
     &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C# <br><br>
 </div>
 
