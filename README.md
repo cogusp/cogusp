@@ -58,11 +58,12 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<!--Awards-->
 <h2> 🏅 Awards 🏅 </h2>
 <div>
-    한림대학교 2023 캡스톤디자인 경진대회 - 장려상 <br>
-    한국컴퓨터그래픽스학회 - 학부우수포스터상 <br>
-    한림대학교 2023 정보과학대학 학술제 아이디어 부문 - 은상 <br>
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 캡스톤디자인 경진대회 장려상 </h4> 
+    <h4> &nbsp&nbsp&nbsp • &nbsp 2023 KCGS (한국컴퓨터그래픽스학회) 학부우수포스터상 </h4>
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 정보과학대학 학술제 아이디어 부문 은상 </h4>
 </div>
 
 <br><br>
