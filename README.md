@@ -76,6 +76,18 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<!--Activities-->
+<h2> 💡 Activities 💡 </h2>
+<div>
+    <h4> &nbsp&nbsp&nbsp • &nbsp GVE(Graphics & Virtual Environment) 학부연구생 </h4> 
+    <h4> &nbsp&nbsp&nbsp • &nbsp 2022 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정 </h4> 
+    <h4> &nbsp&nbsp&nbsp • &nbsp 2023 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정 </h4> 
+    <h4> &nbsp&nbsp&nbsp • &nbsp 2023 학술동아리 C.愛.랑 운영진 </h4>
+    <h4> &nbsp&nbsp&nbsp • &nbsp 언리얼 엔진을 활용한 게임 개발자 부트캠프 수료</h4>
+</div>
+
+<br><br>
+
 <!--Courses-->
 <details>
 <summary>
