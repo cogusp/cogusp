@@ -56,6 +56,14 @@ Here are some ideas to get you started:
     &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C#, Python, Google GEMINI API <br><br>
 </div>
 
+👾 [SMS RPG](https://github.com/cogusp/2025_SMSRPG) (2025) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 파티 플레이 기반 던전 공략 ARPG <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : UI, 장비 및 인벤토리 시스템, 상점 시스템, 스킬 시스템 리팩토링 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5, C++, Jira, TortoiseSVN <br><br>
+</div>
+
 <br><br>
 
 <!--Awards-->
