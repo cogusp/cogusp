@@ -93,9 +93,9 @@
 <!--Awards-->
 <h2> 🏅 Awards 🏅 </h2>
 <div>
-    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 캡스톤디자인 경진대회 장려상 </h4> 
-    <h4> &nbsp&nbsp&nbsp • &nbsp 한국컴퓨터그래픽스학회 2023 학부생 주저자 우수포스터상 </h4>
-    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 정보과학대학 학술제 은상 </h4>
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 캡스톤디자인 경진대회 장려상 - 심박수를 활용한 VR 반응형 콘텐츠 </h4> 
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한국컴퓨터그래픽스학회 2023 학부생 주저자 우수포스터상 - 심박수를 활용한 VR 반응형 콘텐츠 </h4>
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 정보과학대학 학술제 은상 - 노인을 위한 VR 요리 체험 인지능력 향상 프로그램 </h4>
 </div>
 
 <br><br>
