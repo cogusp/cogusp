@@ -1,4 +1,4 @@
-<!--
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c201755d-8645-4a58-8921-2ef8e8a9a46a" /><!--
 **cogusp/cogusp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
@@ -24,6 +24,40 @@ Here are some ideas to get you started:
 
 <h2> ✨ Projects ✨ </h2>
 
+<h4> 🛠️ Unreal Engine </h4>
+
+👾 [SMS RPG](https://github.com/cogusp/2025_SMSRPG) (2025) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 파티 플레이 기반 던전 공략 ARPG <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : UI, 게임 시스템(인벤토리, 상점, 장비, 채팅, 퀵슬롯), 스킬 시스템 리팩토링 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5.4, C++, Jira, TortoiseSVN <br><br>
+</div>
+
+🥽 [AI 교수 프로토타입](https://github.com/cogusp/Virtual-Agent) (2025) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp Gemini와 Meta Human이 연동된 AI 교수 프로그램 프로토타입 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : Gemini API 연동 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5.4, Python, Gemini API, Meta Human <br><br>
+</div>
+
+👾 [Kingdom](https://github.com/cogusp/KGA_Kingdom) (2025) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 웨이브 기반 4인 멀티 좀비 액션 게임 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발(기획 및 구현)<br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 4.27, Blueprint <br><br>
+</div>
+
+👾 [IceCream](https://github.com/cogusp/KGA_IceCream) (2024) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 2라운드 스테이지 클리어 액션 게임 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발(기획 및 구현)<br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 4.27, Blueprint <br><br>
+</div>
+
 👾 [Into the Woods](https://github.com/cogusp/2023_IntoTheWoods/blob/main/README.md) (2022) <br>
 
 <div>
@@ -32,36 +66,43 @@ Here are some ideas to get you started:
     &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5, Blueprint <br><br>
 </div>
 
-👾 [심박수를 활용한 VR 반응형 콘텐츠](https://github.com/lbd0/HeartRate_WatchApp) (2023) <br>
+<h4> 🛠️ Unity3D </h4>
 
-<div>
-    &nbsp&nbsp&nbsp • &nbsp 사용자의 심박수를 게임의 요소로 설정하여 입력받은 심박수에 따라 게임의 난이도가 달라지는 VR 게임 <br>
-    &nbsp&nbsp&nbsp • &nbsp Role : 팀장, 데이터 분석 및 게임 Scene 제작 <br>
-    &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C#, Python, Firebase, Android Studio <br><br>
-</div>
-
-👾 [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking) (2023) 🏅 <br>
-
-<div>
-    &nbsp&nbsp&nbsp • &nbsp 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
-    &nbsp&nbsp&nbsp • &nbsp Role : 팀장, Meta Quest Interaction <br>
-    &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C# <br><br>
-</div>
-
-👾 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://github.com/lbd0/2024_KCGS) (2024) <br>
+👾 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램](https://github.com/lbd0/2024_KCGS) (2024) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 요리 교육 VR 프로그램을 제작하기 위해 Gemini를 연동한 가상 에이전트를 시각화하여 제공 <br>
-    &nbsp&nbsp&nbsp • &nbsp Role : GEMINI 연동 가상 에이전트 구현 <br>
-    &nbsp&nbsp&nbsp • &nbsp Tech : VR, Unity3D, C#, Python, Google GEMINI API <br><br>
+    &nbsp&nbsp&nbsp • &nbsp Role : Gemini 연동 가상 에이전트 구현 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unity3D, Meta Quest, C#, Python, Gemini API <br>
+    &nbsp&nbsp&nbsp • &nbsp Paper : KCGS 2024 - GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램 <br><br>
 </div>
 
-👾 [SMS RPG](https://github.com/cogusp/2025_SMSRPG) (2025) <br>
+👾 [노인을 위한 VR 요리 체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking) (2023) 🏅 <br>
 
 <div>
-    &nbsp&nbsp&nbsp • &nbsp 파티 플레이 기반 던전 공략 ARPG <br>
-    &nbsp&nbsp&nbsp • &nbsp Role : UI, 장비 및 인벤토리 시스템, 상점 시스템, 스킬 시스템 리팩토링 <br>
-    &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5, C++, Jira, TortoiseSVN <br><br>
+    &nbsp&nbsp&nbsp • &nbsp 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 팀장, PM, 게임 Scene 제작 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unity3D, Meta Quest, C# <br>
+    &nbsp&nbsp&nbsp • &nbsp Paper : HCI 2024 - 노인을 위한 VR 요리 체험 인지능력 향상 프로그램 <br><br>
+</div>
+
+👾 [심박수를 활용한 VR 반응형 콘텐츠](https://github.com/lbd0/HeartRate_WatchApp) (2023) 🏅 <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 사용자의 심박수를 게임의 요소로 설정하여 입력받은 심박수에 따라 게임의 난이도가 달라지는 VR 게임 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 팀장, 데이터 정제·분석·시각화, 게임 Scene 제작 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unity3D, Meta Quest, C#, Python, Firebase, Android Studio <br>
+    &nbsp&nbsp&nbsp • &nbsp Paper : KGCS 2023 - 심박수를 활용한 VR 반응형 콘텐츠 <br><br>
+</div>
+
+<h4> 🛠️ C++ </h4>
+
+👾 [Pokemon](https://github.com/cogusp/CPP_Pokemon) (2024) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 포켓몬스터 레드 기반 콘솔 게임 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발(기획 및 구) <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : C++ <br><br>
 </div>
 
 <br><br>
@@ -70,7 +111,7 @@ Here are some ideas to get you started:
 <h2> 🏅 Awards 🏅 </h2>
 <div>
     <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 캡스톤디자인 경진대회 장려상 </h4> 
-    <h4> &nbsp&nbsp&nbsp • &nbsp 2023 KCGS (한국컴퓨터그래픽스학회) 학부우수포스터상 </h4>
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한국컴퓨터그래픽스학회 2023 학부생 주저자 우수포스터상 </h4>
     <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 2023 정보과학대학 학술제 은상 </h4>
 </div>
 
