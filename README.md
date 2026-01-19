@@ -51,7 +51,15 @@
 
 <h4> 🛠️ Unity3D </h4>
 
-👾 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램](https://github.com/lbd0/2024_KCGS) (2024) <br>
+🥽 [Convert 2D Text Data to VR Experience](https://github.com/cogusp/Word-Cloud) (2024) <br>
+
+<div>
+    &nbsp&nbsp&nbsp • &nbsp 2D 텍스트 데이터를 3D VR에서 시각화하기 위한 연구 수행 <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발 <br>
+    &nbsp&nbsp&nbsp • &nbsp Tech : Unity3D, Meta Quest, C#, Python, WordCloud <br><br>
+</div>
+
+🥽 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램](https://github.com/lbd0/2024_KCGS) (2024) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 요리 교육 VR 프로그램을 제작하기 위해 Gemini를 연동한 가상 에이전트를 시각화하여 제공 <br>
@@ -60,7 +68,7 @@
     &nbsp&nbsp&nbsp • &nbsp Paper : KCGS 2024 - GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램 <br><br>
 </div>
 
-👾 [노인을 위한 VR 요리 체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking) (2023) 🏅 <br>
+🥽 [노인을 위한 VR 요리 체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking) (2023) 🏅 <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
@@ -69,7 +77,7 @@
     &nbsp&nbsp&nbsp • &nbsp Paper : HCI 2024 - 노인을 위한 VR 요리 체험 인지능력 향상 프로그램 <br><br>
 </div>
 
-👾 [심박수를 활용한 VR 반응형 콘텐츠](https://github.com/lbd0/HeartRate_WatchApp) (2023) 🏅 <br>
+🥽 [심박수를 활용한 VR 반응형 콘텐츠](https://github.com/lbd0/HeartRate_WatchApp) (2023) 🏅 <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 사용자의 심박수를 게임의 요소로 설정하여 입력받은 심박수에 따라 게임의 난이도가 달라지는 VR 게임 <br>
