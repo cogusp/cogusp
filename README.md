@@ -92,7 +92,7 @@
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 포켓몬스터 레드 기반 콘솔 게임 <br>
-    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발(기획 및 구) <br>
+    &nbsp&nbsp&nbsp • &nbsp Role : 1인 개발(기획 및 구현) <br>
     &nbsp&nbsp&nbsp • &nbsp Tech : C++ <br><br>
 </div>
 
@@ -111,7 +111,8 @@
 <!--Activities-->
 <h2> 💡 Activities 💡 </h2>
 <div>
-    <h4> &nbsp&nbsp&nbsp • &nbsp GVE(Graphics & Virtual Environment) 학부연구생 </h4> 
+    <h4> &nbsp&nbsp&nbsp • &nbsp 한림대학교 GVE(Graphics & Virtual Environment) 학부연구생 </h4>
+    <h4> &nbsp&nbsp&nbsp • &nbsp Utah State University VizUS Lab. Visiting Scholar </h4>
     <h4> &nbsp&nbsp&nbsp • &nbsp 2022 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정 </h4> 
     <h4> &nbsp&nbsp&nbsp • &nbsp 2023 한모코(한림모여코딩) 프로그램 참가 및 우수 팀 선정 </h4> 
     <h4> &nbsp&nbsp&nbsp • &nbsp 2023 학술동아리 C.愛.랑 운영진 </h4>
@@ -191,7 +192,11 @@
   </a>
   
   <a href="https://www.instagram.com/e_pluie_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp&nbsp
+  </a>
+
+  <a href="https://cogusp.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
 </div>
 
